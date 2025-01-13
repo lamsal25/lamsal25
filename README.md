@@ -4,18 +4,23 @@
 ---
 
 ### 🌟 About Me
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-  <div>
-    <ul>
-      <li>🔭 I’m currently working on <strong>frontend projects</strong> and diving deeper into <strong>data science</strong>.</li>
-      <li>🌱 I’m learning <strong>Next.js</strong> and <strong>Machine Learning</strong> to enhance my skill set.</li>
-      <li>💡 I enjoy solving complex problems and crafting seamless user experiences.</li>
-      <li>📫 You can reach me at <strong>lamsalgovinda25@gmail.com</strong>.</li>
-      <li>⚡ Fun fact: I’m always curious to explore <strong>emerging technologies</strong> and creative solutions.</li>
-    </ul>
-  </div>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" style="border-radius: 10px;">
-</div>
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on <strong>frontend projects</strong> and diving deeper into <strong>data science</strong>.</li>
+        <li>🌱 I’m learning <strong>Next.js</strong> and <strong>Machine Learning</strong> to enhance my skill set.</li>
+        <li>💡 I enjoy solving complex problems and crafting seamless user experiences.</li>
+        <li>📫 You can reach me at <strong>lamsalgovinda25@gmail.com</strong>.</li>
+        <li>⚡ Fun fact: I’m always curious to explore <strong>emerging technologies</strong> and creative solutions.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -29,59 +34,80 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-</p>
+
+
+<table>
+  <tr>
+    <td>
+      <h4>🌐 Frontend Development</h4>
+      <div>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+        </a>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+        </a>
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
+        </a>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+        </a>
+      </div>
+       <hr>
+      <h4>🗄️ Databases</h4>
+      <div>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+        </a>
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+        </a>
+      </div>
+    </td>
+    <td>
+      <h4>⚙️ Backend Development</h4>
+      <div>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+        </a>
+        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
+        </a>
+      </div>
+       <hr>
+      <h4>📊 Data Science & Machine Learning</h4>
+      <div>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+        </a>
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+        </a>
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" />
+        </a>
+        <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats:
-<div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamsal25&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 45%; border-radius: 10px;">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamsal25" alt="GitHub Streak" style="width: 45%; border-radius: 10px;">
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamsal25&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamsal25" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
