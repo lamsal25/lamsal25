@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Govinda Lamsal</h1>
-<h3 align="center">A Passionate Frontend Developer & Data Science Enthusiast</h3>
+<h3 align="center">A Passionate Web Developer & Data Science Enthusiast</h3>
 
 ---
 
