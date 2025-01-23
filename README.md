@@ -9,9 +9,9 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working on <strong>frontend projects</strong> and diving deeper into <strong>data science</strong>.</li>
+        <li>🔭 I’m currently working on <strong>Web development projects</strong> and diving deeper into <strong>data science</strong> and <strong>Project Management </strong>.</li>
         <li>🌱 I’m learning <strong>Next.js</strong> and <strong>Machine Learning</strong> to enhance my skill set.</li>
-        <li>💡 I enjoy solving complex problems and crafting seamless user experiences.</li>
+        <li>💡 I enjoy solving complex problems and team management.</li>
         <li>📫 You can reach me at <strong>lamsalgovinda25@gmail.com</strong>.</li>
         <li>⚡ Fun fact: I’m always curious to explore <strong>emerging technologies</strong> and creative solutions.</li>
       </ul>
