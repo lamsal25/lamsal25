@@ -63,26 +63,6 @@
 
 </p>
 
-### AWS Skills
-
-- **Cloud Architecture & Solution Design**
-- **Amazon EC2, Auto Scaling & Elastic Load Balancing**
-- **Amazon S3 & CloudFront**
-- **Amazon VPC & Networking**
-- **AWS Lambda & Serverless Architecture**
-- **Amazon RDS & DynamoDB**
-- **IAM & Cloud Security Fundamentals**
-- **Amazon CloudWatch Monitoring**
-- **Amazon Rekognition**
-- **High Availability & Fault-Tolerant Architecture**
-- **Disaster Recovery**
-- **Cost Optimization**
-- **Infrastructure as Code fundamentals**
-- **AWS CloudFormation**
-- **Cloud Architecture Diagrams**
-
----
-
 # 🛠️ Technical Skills
 
 <table>
@@ -235,57 +215,6 @@ I enjoy making cloud technologies easier to understand through:
 - 🎯 AWS Solutions Architect exam preparation
 
 > **My goal is not only to learn technology, but also to explain it in a way that others can easily understand.**
-
----
-
-# 🚀 Projects & Areas I'm Working On
-
-### ☁️ Cloud Projects
-
-- **AWS Three-Tier Web Architecture**
-- **Serverless Applications using AWS Lambda**
-- **S3 Image Processing Automation**
-- **AWS Static Website Hosting**
-- **EC2 + RDS Architecture**
-- **S3 + Lambda Event-Driven Architecture**
-- **CloudFront Content Delivery**
-- **Infrastructure as Code using CloudFormation**
-- **AWS AI/Image Analysis using Rekognition**
-
-### 💻 Full-Stack Projects
-
-- **Multi-Vendor E-Commerce Platform**
-- **REST API-based Web Applications**
-- **Authentication & Role-Based Systems**
-- **Payment Integration**
-- **Admin & Vendor Dashboards**
-- **Database-driven Web Applications**
-
----
-
-# 📚 Currently Exploring
-
-```text
-☁️ Advanced AWS Architecture
-🤖 AI Infrastructure
-🧠 Artificial Intelligence & Machine Learning
-🏗️ Cloud Solution Design
-⚙️ Cloud Automation
-📊 Data Science
-👥 Project & Team Management
-🚀 Emerging Cloud Technologies
-```
-
----
-
-# 🎓 Education
-
-### 🎓 Master of Business Administration — MBA
-Combining **technology, leadership, management and business strategy**.
-
-### 💻 Bachelor of Science in Computer Science & Information Technology — BSc CSIT
-Built a strong foundation in **software development, databases, networking, algorithms and computer science**.
-
 ---
 
 # 📊 GitHub Statistics
